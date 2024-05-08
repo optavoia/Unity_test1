@@ -11,4 +11,4 @@
 - [] RIgidBody un Collider komponešu lietojums
 - [] Sagatavošana Windows platformai
 
-![MR.Bean](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F858991328918090148%2F&psig=AOvVaw31UZTXmQZw_6tG6KI6jDGr&ust=1715235492551000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiDt6O0_YUDFQAAAAAdAAAAABAE)
+![MR.Bean](https://i.pinimg.com/originals/bb/20/4c/bb204ca21347be6d8a770f1e62ca93ee.png)
